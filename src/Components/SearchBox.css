@@ -1,0 +1,7 @@
+input:focus{
+  box-sizing: border-box;
+}
+input{
+  border-radius: 5px;
+  border: 2px solid lightgray;
+}
